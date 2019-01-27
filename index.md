@@ -8,6 +8,8 @@ page_sections:
   logo: "/uploads/2019/01/27/zenlaboratory.png"
   navigation:
   - link_text: INICIO
+  cta:
+    button_text: TEST
 
 ---
 foo bar
